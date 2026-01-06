@@ -43,10 +43,31 @@
       }
     },
     {
-      "query": "path:",
+      "query": "path:\"人工智能基础/第 7 章 不确定性知识表示与推理\"  ",
       "color": {
         "a": 1,
         "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"人工智能基础/第 8 章 机器学习\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11951318
+      }
+    },
+    {
+      "query": "path:\"人工智能基础/第 9 章 人工神经网络与深度学习\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048454
+      }
+    },
+    {
+      "query": "path:\"人工智能基础/第 10 章 Agent\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
       }
     }
   ],
@@ -60,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.4061496571735905,
+  "close": true
 }
