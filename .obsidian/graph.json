@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"人工智能基础/第 2 章 状态空间搜索\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"人工智能基础/第 3 章 人工智能博弈\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084286
+      }
+    },
+    {
+      "query": "path:\"人工智能基础/第 4 章 智能优化算法\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11064908
+      }
+    },
+    {
+      "query": "path:\"人工智能基础/第 5 章 经典逻辑推理\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"人工智能基础/第 6 章 确定性知识表示与推理\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8150230
+      }
+    },
+    {
+      "query": "path:",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}
